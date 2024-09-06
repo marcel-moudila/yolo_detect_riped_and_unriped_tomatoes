@@ -1,5 +1,7 @@
 # yolo_detect_riped_and_unriped_tomatoes
 
+![result](./track_tomate.gif)
+
 I'm sharing my work on a computer vision project using the well-known YOLO (version 8) tool. 
 My project took place in several stages: 
 - downloading the dataset from kaggle
