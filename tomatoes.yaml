@@ -1,0 +1,6 @@
+path: C:/Users/Lenovo/Documents/projet2/datasets/tomatoes
+train: images/train
+val: images/val
+names:
+  0: tomate non mûre
+  1: tomate mûre
